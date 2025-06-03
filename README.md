@@ -67,7 +67,6 @@ Through building this project, I learned and practiced many Vue 3 fundamentals.
 - `tailwindcss` for modern, responsive styling
 
 ---
-
 ## 📦 Dependencies
 ```json
 "dependencies": {
@@ -79,5 +78,5 @@ Through building this project, I learned and practiced many Vue 3 fundamentals.
   "vue-spinner": "^1.0.4",
   "vue-toastification": "^2.0.0-rc.5"
 }
-
-
+```
+### Ref: https://youtu.be/VeNfHj6MhgA?si=JCgKxpvx9FqbzNK4
